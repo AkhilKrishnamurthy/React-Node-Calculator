@@ -1,0 +1,22 @@
+ .wrapper {
+    width: 100%;
+    background-color: #03061C;
+    height: 1000px;
+    color: white;
+}       
+.form {
+    padding-top: 200px;
+    padding-left: 200px;
+       
+}
+table {
+    border: 1px solid white;
+    width: 70%;
+    margin-right: 40px;
+}
+.inputCalc {
+    width: 30%;
+}
+.calcTable {
+    border: none;
+}
